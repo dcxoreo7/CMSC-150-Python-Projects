@@ -1,1 +1,1 @@
-# CMSC-150-Python-Projects
+# CMSC-Python-Projects
